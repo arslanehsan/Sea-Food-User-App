@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892323055368",
+    "project_id": "see-food-f0b82",
+    "storage_bucket": "see-food-f0b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892323055368:android:383300a045a5f43e840ebd",
+        "android_client_info": {
+          "package_name": "com.stormdeve.seefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892323055368-mc9i544une8r5686j00qk3gluvol63d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stormdeve.seefood",
+            "certificate_hash": "0df4ced0009003b531f227eb27add441c7dee27f"
+          }
+        },
+        {
+          "client_id": "892323055368-qs8snks1agh7qeh05c1frveipum04ujn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvwFEkKQbbAhZjfd_xIvRCZzCFdvK9fek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892323055368-qs8snks1agh7qeh05c1frveipum04ujn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

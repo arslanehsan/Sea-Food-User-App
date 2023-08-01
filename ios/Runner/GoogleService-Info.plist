@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>892323055368-11qe4pfs4p6iq8rd8voq84elhvd6ovjp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.892323055368-11qe4pfs4p6iq8rd8voq84elhvd6ovjp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>892323055368-mc9i544une8r5686j00qk3gluvol63d2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVf2YkrX2gqK0p4rFgwTci0fJMixRpqGs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>892323055368</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stormdeve.seefood</string>
+	<key>PROJECT_ID</key>
+	<string>see-food-f0b82</string>
+	<key>STORAGE_BUCKET</key>
+	<string>see-food-f0b82.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:892323055368:ios:ead8a9f33aa23779840ebd</string>
+</dict>
+</plist>
